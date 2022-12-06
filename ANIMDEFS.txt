@@ -1,0 +1,1 @@
+cameratexture ZCAMERA1 64 48 fit 64 48

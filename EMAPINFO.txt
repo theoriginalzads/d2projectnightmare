@@ -1,0 +1,73 @@
+Patch File for DeHackEd v3.0
+ 
+Doom version = 21
+Patch format = 6
+ 
+ 
+Text 6 6
+runni2quiksv
+ 
+ 
+[STRINGS]
+HUSTR_1 = E1M01: Point Insanity
+HUSTR_2 = E1M02: Red Key Blue Key 
+HUSTR_3 = E1M03: The Office is Doomed!
+HUSTR_4 = E1M04: TBA
+HUSTR_5 = E1M05: TBA
+HUSTR_6 = E1M06: TBA
+HUSTR_7 = E1M07: TBA
+HUSTR_8 = E1M08: TBA
+HUSTR_9 = E1M09: TBA
+HUSTR_10 = E1M10: TBA
+HUSTR_11 = E1M11: TBA
+HUSTR_12 = E1M12: TBA
+HUSTR_13 = E1M13: TBA
+HUSTR_14 = E1M14: TBA
+HUSTR_15 = E1M15: TBA
+HUSTR_16 = E1M16: TBA
+HUSTR_17 = E1M17: TBA
+HUSTR_18 = E1M18: TBA
+HUSTR_19 = E1M19: TBA
+HUSTR_20 = E1M20: TBA
+HUSTR_21 = E1M21: TBA
+HUSTR_22 = E1M22: TBA
+HUSTR_23 = E1M23: TBA
+HUSTR_24 = E1M24: TBA
+HUSTR_25 = E1M25: TBA
+HUSTR_31 = E1M31: TBA
+HUSTR_32 = E1M32: TBA
+
+C1TEXT = Trapped! Dead!\n\nOr are you?\n\nIt was supposed to be a routine\ninsertion, go in and find out what broke\nloose. You slowly wake up in a room.\nStill alive, nothing but your pistol.\n\nYou now have to make a choice. The red\nkey, or the blue key?\n
+C2TEXT = TBA
+C3TEXT = TBA
+C5TEXT = TBA
+C6TEXT = TBA
+
+
+[PARS]
+par	1	2400
+par	2	150
+par	3	90
+par	4	180
+par	5	210
+par	6	285
+par	7	120
+par	8	0
+par	9	210
+par	10	225
+par	11	285
+par	12	420
+par	13	240
+par	14	195
+par	15	345
+par	16	0
+par	17	150
+par	18	270
+par	19	90
+par	20	435
+par	21	165
+par	22	390
+par	23	0
+par	24	660
+par	25	285
+par	26	150

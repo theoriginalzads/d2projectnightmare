@@ -1,0 +1,3 @@
+$random world/thunder      { world/thunder1  world/thunder2 }
+world/thunder1   thnds02
+world/thunder2   thnds01
